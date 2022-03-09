@@ -1,0 +1,48 @@
+{
+  "name": "awesomeproject",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.16.1",
+    "@react-native-google-signin/google-signin": "^7.1.0",
+    "@react-native-picker/picker": "^2.3.1",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
+    "bcrypt-react-native": "^1.1.1",
+    "expo": "~44.0.0",
+    "expo-linear-gradient": "^11.0.3",
+    "expo-status-bar": "~1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-animatable": "^1.3.3",
+    "react-native-bcrypt": "^2.4.0",
+    "react-native-dotenv": "^3.3.1",
+    "react-native-exit-app": "^1.1.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-pagination": "^1.5.5",
+    "react-native-paper": "^4.11.2",
+    "react-native-radio-buttons-group": "^2.2.10",
+    "react-native-render-html": "^6.3.4",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.10.1",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-splash-screen": "^3.3.0",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1",
+    "react-native-webview": "^11.17.2",
+    "rn-fetch-blob": "^0.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}

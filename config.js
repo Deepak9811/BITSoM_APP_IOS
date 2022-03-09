@@ -1,0 +1,17 @@
+import {
+  API_SLIDER,
+  API_URL,
+  API_ALL,
+  API_EVENTS,
+  API_GETFEEDBACK,
+  API_POSTFEEDBACK,
+} from "@env";
+
+export default {
+  API_SLIDER,
+  API_URL,
+  API_ALL,
+  API_EVENTS,
+  API_GETFEEDBACK,
+  API_POSTFEEDBACK,
+};
